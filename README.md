@@ -25,6 +25,7 @@ I am Di Luo. Welcome to my GitHub:)
 - :email: How to reach me: di.luo.th@dartmouth.edu
 - :rainbow: He / him / his pronouns.
 
-### Notes about my repos
+### Notes
 
-- Some repos were created to store project files that were originally uploaded to other platforms. See respective READMEs for more details.
+- This is my new account and I have deleted all my old accounts, so some of my contribution history might have disappeared in the repos that I contributed to with my old accounts.
+- Some repos were created to store project files that were originally uploaded to other platforms. See respective README for more details.
