@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Di Luo. Welcome to my GitHub:)
+
+- :cn: I'm from Chongqing, China.
+- :school: I'm currently pursuing Bachelor of Engineering degree at Dartmouth College with Computer Engineering concentration. (Dual-degree Engineering Program)
+- 📫 I graduated from Colby College with a Bachelor of Arts degree majoring in Computer Science.
+- :costa_rica: I lived and studied at United World College Costa Rica for two years. Pura Vida!
+- :star2: I'm interested in singing:microphone:, soccer:soccer:, digital products:iphone:, dogs:dog: and cats:cat:, and Chinese cooking:cook:.
+- :email: How to reach me: di.luo.th@dartmouth.edu
+- :rainbow: He / him / his pronouns.
