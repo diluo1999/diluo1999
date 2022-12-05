@@ -24,3 +24,7 @@ I am Di Luo. Welcome to my GitHub:)
 - :star2: I'm interested in singing:microphone:, soccer:soccer:, digital products:iphone:, dogs:dog: and cats:cat:, and Chinese cooking:cook:.
 - :email: How to reach me: di.luo.th@dartmouth.edu
 - :rainbow: He / him / his pronouns.
+
+### Notes about my repos
+
+- Some repos were created to store project files that were originally uploaded to other platforms. See respective READMEs for more details.
