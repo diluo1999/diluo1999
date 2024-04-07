@@ -25,5 +25,5 @@ I am Di Luo. Welcome to my GitHub:)
 
 ### Notes
 
-- This is my new account and I have deleted all my old accounts, so some of my contribution history might have disappeared in the repos that I contributed to with my old accounts.
+- This is my new GitHub account and I have deleted all my old accounts, so some of my contribution history might have disappeared in the repos that I contributed to with my old accounts.
 - Some repos were created to store project files that were originally uploaded to other platforms. See READMEs for more details.
